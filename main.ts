@@ -3,6 +3,7 @@ import { join } from "node:path";
 
 // The excuse that almost works: a boring, specific, verifiable-sounding
 // civic detail — the car is physically trapped behind the roadworks.
+// No trailing newline: the gate counts every byte of the 1–140 allowed.
 const LINE =
   "cant come in, the council shut our street for resurfacing and my car's boxed in behind the rollers";
 
